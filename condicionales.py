@@ -13,3 +13,4 @@ if promedio >= 6 :
     print('Felicidades ' + nombre + '" aprobaste" con un promedio de ', promedio)
     
 print("Fin")
+
